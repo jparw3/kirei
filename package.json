@@ -1,0 +1,54 @@
+{
+	"name": "kirei",
+	"displayName": "Kirei",
+	"description": "Light and Dark theme",
+	"publisher": "Jparw",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/michael-andreuzza/astro-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jparw3/kirei.git",
+		"email": "j@jparw.me"
+	},
+	"icon": "logo/theme-icon.png",
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"version": "0.9.0",
+	"engines": {
+		"vscode": "^1.72.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"jparw",
+		"kirei"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kirei Light",
+				"uiTheme": "vs",
+				"path": "./themes/light.json"
+			},
+			{
+				"label": "Kirei Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ae17913a-d4eb-4f89-b194-2284853c65e3",
+		"publisherId": "c57d5d4f-f603-465b-b932-c5853745bbab",
+		"publisherDisplayName": "Michael Andreuzza ",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1694693405752,
+		"preRelease": false
+	}
+}
