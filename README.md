@@ -1,4 +1,4 @@
-# Astro Theme for VS Code.
+# Kirei Theme for VS Code.
 
 Screenshots are coming soon...
 
@@ -36,7 +36,7 @@ To **disable** italics, add this snippet to your `settings.json`:
 
 ```jsonc
 "editor.tokenColorCustomizations": {
-  "[Astro by Mike]": {
+  "[Kirei]": {
     "textMateRules": [
       {
         "scope": [
